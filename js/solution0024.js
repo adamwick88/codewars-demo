@@ -1,6 +1,8 @@
 
 //Given a string, you have to return a string in which each character (case-sensitive) is repeated once.
 
+const { listen } = require("express/lib/application");
+
 //Examples (Input -> Output):
 ////* "String"      -> "SSttrriinngg"
 // "Hello World" -> "HHeelllloo  WWoorrlldd"
@@ -14,3 +16,5 @@ function doubleChar(str) {
    };
     return word;
   };
+
+
