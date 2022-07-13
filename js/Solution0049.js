@@ -14,4 +14,11 @@ function makeNegative(num) {
     return Math.abs(num) * -1;
   }
 
-  
+  function billBoard(letter, cost=30){
+    let totalCost=[]
+    for(let i=0;i<=letter.length;i++){
+        totalCost=cost[i]
+    }
+  }
+
+  Array.toString('').split('').map(Number).join()
