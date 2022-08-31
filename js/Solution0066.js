@@ -16,3 +16,6 @@ function defineSuit(card) {
     if(card.includes('♣')) return 'clubs'
     if(card.includes('♠')) return 'spades' 
     }
+
+    //changes
+    
