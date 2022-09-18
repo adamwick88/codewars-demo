@@ -15,3 +15,5 @@ https://www.codewars.com/kata/no-loops-1-small-enough
 function check(a,b){
     return a.includes(b);
   };
+
+  
