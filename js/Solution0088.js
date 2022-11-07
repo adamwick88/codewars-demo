@@ -21,4 +21,4 @@ function stringTransformer(str) {
         v.toLowerCase() :
         v.toUpperCase())
       .join('');
-  }
+  }N

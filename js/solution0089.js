@@ -5,3 +5,4 @@ function sortLastChar(x){
     return x.split(' ').sort((a,b)=> a.charCodeAt(a.lenght-1)-)
 }
 
+
